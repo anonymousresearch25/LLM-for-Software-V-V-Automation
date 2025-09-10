@@ -1,0 +1,10 @@
+huggingface_hub==0.33.4
+numpy==1.26.4
+ollama==0.5.1
+openai==1.97.0
+pytest-cov>=5.0.0
+Requests==2.32.4
+sentence_transformers==4.1.0
+torch==2.2.2
+tqdm==4.64.0
+transformers==4.53.2

@@ -1,0 +1,21 @@
+Please write a test method for the function '{func_name}' given the following program under test and function description. 
+Use the following knowledge base to help. Your answer should only contain one test input.
+
+Program under test:
+----
+{program}
+----
+
+Function description for '{func_name}':
+----
+{description}
+----
+
+Knowledge Base:
+----
+{context}
+----
+
+Your test method should begin with:
+def test_{func_name}():
+    solution=Solution()
